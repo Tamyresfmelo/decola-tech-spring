@@ -1,1 +1,1 @@
-web: java -jar target/santander-dev-0.0.1-SNAPSHOT.jar
+web: java -jar -Dspring.profiles.active=prod target/santander-dev-0.0.1-SNAPSHOT.jar
