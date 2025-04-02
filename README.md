@@ -55,7 +55,6 @@ classDiagram
 
 ## Documentação da API (Swagger)
 
-### [https://sdw-2023-prd.up.railway.app/swagger-ui.html](https://sdw-2023-prd.up.railway.app/swagger-ui.html)
+### [https://web-production-5ee82.up.railway.app/swagger-ui/index.html](https://web-production-5ee82.up.railway.app/swagger-ui/index.html)
 
-Esta API ficará disponível no Railway por um período de tempo limitado, mas este é um código-fonte aberto. Portanto, sintam-se à vontade para cloná-lo, modificá-lo (já que é um bom projeto base para novos projetos) e executar localmente ou onde achar mais interessante! Só não esquece de marcar a gente quando divulgar a sua solução 🥰
-
+Esta api foi que hospedei no railway, não sei por quanto tempo ela vai ficar online, já que tem um custo associado.
